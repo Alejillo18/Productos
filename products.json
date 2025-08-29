@@ -5,7 +5,7 @@
       "titulo": "ASRock Radeon RX 6600 Challenger D 8GB",
       "descripcion": "Tarjeta gráfica ideal para gaming 1080p. Bajo consumo y buena relación calidad/precio.",
       "precio": 270000,
-      "imagen": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=500&auto=format&fit=crop",
+      "imagen": "https://www.asrock.com/Graphics-Card/features/DUALFANDESIGN-Radeon%20RX%206600%20Challenger%20D%208GB.jpg",
       "categoria": "gpus",
       "stock": 15,
       "especificaciones": {
@@ -19,7 +19,7 @@
       "titulo": "MSI Radeon RX 6750 XT MECH 2X 12GB",
       "descripcion": "GPU potente para gaming en 1440p. Buena ventilación y diseño robusto.",
       "precio": 400000,
-      "imagen": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=500&auto=format&fit=crop",
+      "imagen": "https://www.invidcomputers.com/images/0000000000414534000338036414534--2-.png",
       "categoria": "gpus",
       "stock": 8,
       "especificaciones": {
@@ -33,7 +33,7 @@
       "titulo": "Gigabyte GeForce RTX 4060 Eagle OC 8GB",
       "descripcion": "NVIDIA de nueva generación. DLSS 3 y buena eficiencia para juegos modernos.",
       "precio": 360000,
-      "imagen": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=500&auto=format&fit=crop",
+      "imagen": "https://cdn.mos.cms.futurecdn.net/G8MKH8mwKgbJ5KBcHpVvee-1200-80.png",
       "categoria": "gpus",
       "stock": 12,
       "especificaciones": {
@@ -47,7 +47,7 @@
       "titulo": "Intel Core i5-13600K",
       "descripcion": "Procesador de alto rendimiento para gaming y productividad.",
       "precio": 320000,
-      "imagen": "https://images.unsplash.com/photo-1587202372775-e229f172b9d4?w=500&auto=format&fit=crop",
+      "imagen": "https://www.achorao.com/cdn/shop/files/intel-procesadores-default-title-procesador-intel-core-i5-13600k-3-50-5-10ghz-24mb-lga-1700-5032037258746-46365339255024_1080x.jpg?v=1738880776",
       "categoria": "cpus",
       "stock": 10,
       "especificaciones": {
@@ -61,7 +61,7 @@
       "titulo": "AMD Ryzen 7 7800X3D",
       "descripcion": "Procesador con tecnología 3D V-Cache para máximo rendimiento en gaming.",
       "precio": 450000,
-      "imagen": "https://images.unsplash.com/photo-1587202372775-e229f172b9d4?w=500&auto=format&fit=crop",
+      "imagen": "https://diamondsystemar.vtexassets.com/arquivos/ids/161726/78003387800_2.jpg.jpg?v=638802506645030000",
       "categoria": "cpus",
       "stock": 6,
       "especificaciones": {
@@ -75,7 +75,7 @@
       "titulo": "Intel Core i3-12100F",
       "descripcion": "Procesador económico ideal para builds de entrada.",
       "precio": 150000,
-      "imagen": "https://images.unsplash.com/photo-1587202372775-e229f172b9d4?w=500&auto=format&fit=crop",
+      "imagen": "https://www.grupocentrotecnologico.com/wp-content/uploads/2022/07/I13-12-GEN.png",
       "categoria": "cpus",
       "stock": 18,
       "especificaciones": {
@@ -89,7 +89,7 @@
       "titulo": "Corsair Vengeance RGB 32GB DDR5",
       "descripcion": "Memoria RAM DDR5 de alta velocidad con iluminación RGB.",
       "precio": 120000,
-      "imagen": "https://images.unsplash.com/photo-1600766916382-75d68b3a8b8c?w=500&auto=format&fit=crop",
+      "imagen": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Memory/vengeance-rgb-ddr5-wht-config/Gallery/Vengeance-RGB-DDR5-2UP-WHITE_01.webp",
       "categoria": "ram",
       "stock": 20,
       "especificaciones": {
@@ -103,7 +103,7 @@
       "titulo": "Kingston Fury Beast 16GB DDR4",
       "descripcion": "Memoria RAM DDR4 de buen rendimiento y disipador de calor.",
       "precio": 65000,
-      "imagen": "https://images.unsplash.com/photo-1600766916382-75d68b3a8b8c?w=500&auto=format&fit=crop",
+      "imagen": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF432C16BB2A-16_800.jpg",
       "categoria": "ram",
       "stock": 25,
       "especificaciones": {
@@ -117,7 +117,7 @@
       "titulo": "G.Skill Trident Z5 64GB DDR5",
       "descripcion": "Memoria RAM DDR5 de alta gama para entusiastas y creadores de contenido.",
       "precio": 280000,
-      "imagen": "https://images.unsplash.com/photo-1600766916382-75d68b3a8b8c?w=500&auto=format&fit=crop",
+      "imagen": "https://ar-hard.com.ar/wp-content/uploads/Trident_Z5_Neo_RGB_White_2.jpg",
       "categoria": "ram",
       "stock": 7,
       "especificaciones": {
@@ -131,7 +131,7 @@
       "titulo": "ASUS ROG Strix B550-F Gaming",
       "descripcion": "Placa madre AMD B550 con iluminación RGB y excelente conectividad.",
       "precio": 180000,
-      "imagen": "https://images.unsplash.com/photo-1562408590-e32931084e23?w=500&auto=format&fit=crop",
+      "imagen": "https://mexx-img-2019.s3.amazonaws.com/Motherboard-Am4-Asus-Rog-Strix-B550-F-GAMING-WIFI-II_43255_1.jpeg",
       "categoria": "mother",
       "stock": 12,
       "especificaciones": {
@@ -145,7 +145,7 @@
       "titulo": "Gigabyte Z790 AORUS Elite AX",
       "descripcion": "Placa madre Intel Z790 con WiFi 6E y soporte para DDR5.",
       "precio": 280000,
-      "imagen": "https://images.unsplash.com/photo-1562408590-e32931084e23?w=500&auto=format&fit=crop",
+      "imagen": "https://www.gigabyte.com/FileUpload/Global/KeyFeature/2181/innergigabyteimages/smartfan601.png",
       "categoria": "mother",
       "stock": 9,
       "especificaciones": {
@@ -159,7 +159,7 @@
       "titulo": "MSI MPG B550 Gaming Plus",
       "descripcion": "Placa madre AMD B550 con diseño robusto y buen sistema de enfriamiento.",
       "precio": 160000,
-      "imagen": "https://images.unsplash.com/photo-1562408590-e32931084e23?w=500&auto=format&fit=crop",
+      "imagen": "https://storage-asset.msi.com/global/picture/image/feature/mb/B550/MPG/gaming-plus/msi-mpg-b550-gaming-plus-hero-02.png",
       "categoria": "mother",
       "stock": 14,
       "especificaciones": {
@@ -173,7 +173,7 @@
       "titulo": "Corsair RM750x 750W 80 Plus Gold",
       "descripcion": "Fuente de alimentación modular de alta eficiencia y bajo ruido.",
       "precio": 140000,
-      "imagen": "https://images.unsplash.com/photo-1621944190310-e3cca1564bd7?w=500&auto=format&fit=crop",
+      "imagen": "https://www.malditohard.com.ar/wp-content/uploads/product/13/FUE114.webp",
       "categoria": "psus",
       "stock": 15,
       "especificaciones": {
@@ -187,7 +187,7 @@
       "titulo": "Seasonic Focus GX-850 850W",
       "descripcion": "Fuente de alimentación con excelente regulación de voltaje y componentes japoneses.",
       "precio": 170000,
-      "imagen": "https://images.unsplash.com/photo-1621944190310-e3cca1564bd7?w=500&auto=format&fit=crop",
+      "imagen": "https://xtremegames.com.ar/wp-content/uploads/2022/11/imagen-600x600.png",
       "categoria": "psus",
       "stock": 8,
       "especificaciones": {
@@ -201,7 +201,7 @@
       "titulo": "EVGA 600 GD 600W 80 Plus Gold",
       "descripcion": "Fuente de alimentación económica pero con certificación Gold.",
       "precio": 90000,
-      "imagen": "https://images.unsplash.com/photo-1621944190310-e3cca1564bd7?w=500&auto=format&fit=crop",
+      "imagen": "https://images.evga.com/products/gallery/png/100-GD-0600-V1_XL_1.png",
       "categoria": "psus",
       "stock": 20,
       "especificaciones": {
@@ -215,7 +215,7 @@
       "titulo": "NZXT H510 Flow",
       "descripcion": "Gabinete de torre media con excelente flujo de aire y diseño minimalista.",
       "precio": 110000,
-      "imagen": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500&auto=format&fit=crop",
+      "imagen": "https://nzxt.com/cdn/shop/files/h5-elite-hero-black.png?v=1744789660&width=2000",
       "categoria": "cases",
       "stock": 13,
       "especificaciones": {
@@ -229,7 +229,7 @@
       "titulo": "Lian Li PC-O11 Dynamic",
       "descripcion": "Gabinete premium con diseño dual chamber y amplio espacio para watercooling.",
       "precio": 220000,
-      "imagen": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500&auto=format&fit=crop",
+      "imagen": "https://m.media-amazon.com/images/I/71b0CSuKkNL._AC_SL1500_.jpg",
       "categoria": "cases",
       "stock": 6,
       "especificaciones": {
@@ -243,7 +243,7 @@
       "titulo": "Fractal Design Meshify C",
       "descripcion": "Gabinete compacto con frente mesh para óptima ventilación.",
       "precio": 130000,
-      "imagen": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500&auto=format&fit=crop",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_833122-MLA31117259936_062019-O.webp",
       "categoria": "cases",
       "stock": 11,
       "especificaciones": {
@@ -257,7 +257,7 @@
       "titulo": "Samsung 970 EVO Plus 1TB NVMe",
       "descripcion": "SSD NVMe de alto rendimiento para gamers y profesionales.",
       "precio": 120000,
-      "imagen": "https://images.unsplash.com/photo-1643452035184-3e2a7bb6eb15?w=500&auto=format&fit=crop",
+      "imagen": "https://m.media-amazon.com/images/I/71OYNmVRFhL._AC_SL1500_.jpg",
       "categoria": "storages",
       "stock": 18,
       "especificaciones": {
@@ -271,7 +271,7 @@
       "titulo": "WD Blue SN570 1TB NVMe",
       "descripcion": "SSD NVMe económico pero con buen rendimiento para uso general.",
       "precio": 85000,
-      "imagen": "https://images.unsplash.com/photo-1643452035184-3e2a7bb6eb15?w=500&auto=format&fit=crop",
+      "imagen": "https://m.media-amazon.com/images/I/61a+U9YhovL._AC_SL1500_.jpg",
       "categoria": "storages",
       "stock": 22,
       "especificaciones": {
@@ -285,7 +285,7 @@
       "titulo": "Seagate BarraCuda 2TB HDD",
       "descripcion": "Disco duro convencional para almacenamiento masivo económico.",
       "precio": 50000,
-      "imagen": "https://images.unsplash.com/photo-1643452035184-3e2a7bb6eb15?w=500&auto=format&fit=crop",
+      "imagen": "https://fullh4rd.com.ar/img/productos/12/hd-hdd-2tb-seagate-barracuda-sata-iii-35-0.jpg",
       "categoria": "storages",
       "stock": 30,
       "especificaciones": {
