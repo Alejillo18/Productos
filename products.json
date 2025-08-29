@@ -1,0 +1,298 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "titulo": "ASRock Radeon RX 6600 Challenger D 8GB",
+      "descripcion": "Tarjeta gráfica ideal para gaming 1080p. Bajo consumo y buena relación calidad/precio.",
+      "precio": 270000,
+      "imagen": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=500&auto=format&fit=crop",
+      "categoria": "gpus",
+      "stock": 15,
+      "especificaciones": {
+        "memoria": "8GB GDDR6",
+        "conectores": "3x DisplayPort, 1x HDMI",
+        "consumo": "132W"
+      }
+    },
+    {
+      "id": "2",
+      "titulo": "MSI Radeon RX 6750 XT MECH 2X 12GB",
+      "descripcion": "GPU potente para gaming en 1440p. Buena ventilación y diseño robusto.",
+      "precio": 400000,
+      "imagen": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=500&auto=format&fit=crop",
+      "categoria": "gpus",
+      "stock": 8,
+      "especificaciones": {
+        "memoria": "12GB GDDR6",
+        "conectores": "3x DisplayPort, 1x HDMI",
+        "consumo": "250W"
+      }
+    },
+    {
+      "id": "3",
+      "titulo": "Gigabyte GeForce RTX 4060 Eagle OC 8GB",
+      "descripcion": "NVIDIA de nueva generación. DLSS 3 y buena eficiencia para juegos modernos.",
+      "precio": 360000,
+      "imagen": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=500&auto=format&fit=crop",
+      "categoria": "gpus",
+      "stock": 12,
+      "especificaciones": {
+        "memoria": "8GB GDDR6",
+        "conectores": "3x DisplayPort, 1x HDMI",
+        "consumo": "115W"
+      }
+    },
+    {
+      "id": "4",
+      "titulo": "Intel Core i5-13600K",
+      "descripcion": "Procesador de alto rendimiento para gaming y productividad.",
+      "precio": 320000,
+      "imagen": "https://images.unsplash.com/photo-1587202372775-e229f172b9d4?w=500&auto=format&fit=crop",
+      "categoria": "cpus",
+      "stock": 10,
+      "especificaciones": {
+        "nucleos": "14 (6P + 8E)",
+        "frecuencia": "3.5 GHz (hasta 5.1 GHz)",
+        "socket": "LGA 1700"
+      }
+    },
+    {
+      "id": "5",
+      "titulo": "AMD Ryzen 7 7800X3D",
+      "descripcion": "Procesador con tecnología 3D V-Cache para máximo rendimiento en gaming.",
+      "precio": 450000,
+      "imagen": "https://images.unsplash.com/photo-1587202372775-e229f172b9d4?w=500&auto=format&fit=crop",
+      "categoria": "cpus",
+      "stock": 6,
+      "especificaciones": {
+        "nucleos": "8",
+        "frecuencia": "4.2 GHz (hasta 5.0 GHz)",
+        "socket": "AM5"
+      }
+    },
+    {
+      "id": "6",
+      "titulo": "Intel Core i3-12100F",
+      "descripcion": "Procesador económico ideal para builds de entrada.",
+      "precio": 150000,
+      "imagen": "https://images.unsplash.com/photo-1587202372775-e229f172b9d4?w=500&auto=format&fit=crop",
+      "categoria": "cpus",
+      "stock": 18,
+      "especificaciones": {
+        "nucleos": "4",
+        "frecuencia": "3.3 GHz (hasta 4.3 GHz)",
+        "socket": "LGA 1700"
+      }
+    },
+    {
+      "id": "7",
+      "titulo": "Corsair Vengeance RGB 32GB DDR5",
+      "descripcion": "Memoria RAM DDR5 de alta velocidad con iluminación RGB.",
+      "precio": 120000,
+      "imagen": "https://images.unsplash.com/photo-1600766916382-75d68b3a8b8c?w=500&auto=format&fit=crop",
+      "categoria": "ram",
+      "stock": 20,
+      "especificaciones": {
+        "capacidad": "32GB (2x16GB)",
+        "velocidad": "5600MHz",
+        "latencia": "CL36"
+      }
+    },
+    {
+      "id": "8",
+      "titulo": "Kingston Fury Beast 16GB DDR4",
+      "descripcion": "Memoria RAM DDR4 de buen rendimiento y disipador de calor.",
+      "precio": 65000,
+      "imagen": "https://images.unsplash.com/photo-1600766916382-75d68b3a8b8c?w=500&auto=format&fit=crop",
+      "categoria": "ram",
+      "stock": 25,
+      "especificaciones": {
+        "capacidad": "16GB (2x8GB)",
+        "velocidad": "3200MHz",
+        "latencia": "CL16"
+      }
+    },
+    {
+      "id": "9",
+      "titulo": "G.Skill Trident Z5 64GB DDR5",
+      "descripcion": "Memoria RAM DDR5 de alta gama para entusiastas y creadores de contenido.",
+      "precio": 280000,
+      "imagen": "https://images.unsplash.com/photo-1600766916382-75d68b3a8b8c?w=500&auto=format&fit=crop",
+      "categoria": "ram",
+      "stock": 7,
+      "especificaciones": {
+        "capacidad": "64GB (2x32GB)",
+        "velocidad": "6000MHz",
+        "latencia": "CL30"
+      }
+    },
+    {
+      "id": "10",
+      "titulo": "ASUS ROG Strix B550-F Gaming",
+      "descripcion": "Placa madre AMD B550 con iluminación RGB y excelente conectividad.",
+      "precio": 180000,
+      "imagen": "https://images.unsplash.com/photo-1562408590-e32931084e23?w=500&auto=format&fit=crop",
+      "categoria": "mother",
+      "stock": 12,
+      "especificaciones": {
+        "socket": "AM4",
+        "chipset": "AMD B550",
+        "formato": "ATX"
+      }
+    },
+    {
+      "id": "11",
+      "titulo": "Gigabyte Z790 AORUS Elite AX",
+      "descripcion": "Placa madre Intel Z790 con WiFi 6E y soporte para DDR5.",
+      "precio": 280000,
+      "imagen": "https://images.unsplash.com/photo-1562408590-e32931084e23?w=500&auto=format&fit=crop",
+      "categoria": "mother",
+      "stock": 9,
+      "especificaciones": {
+        "socket": "LGA 1700",
+        "chipset": "Intel Z790",
+        "formato": "ATX"
+      }
+    },
+    {
+      "id": "12",
+      "titulo": "MSI MPG B550 Gaming Plus",
+      "descripcion": "Placa madre AMD B550 con diseño robusto y buen sistema de enfriamiento.",
+      "precio": 160000,
+      "imagen": "https://images.unsplash.com/photo-1562408590-e32931084e23?w=500&auto=format&fit=crop",
+      "categoria": "mother",
+      "stock": 14,
+      "especificaciones": {
+        "socket": "AM4",
+        "chipset": "AMD B550",
+        "formato": "ATX"
+      }
+    },
+    {
+      "id": "13",
+      "titulo": "Corsair RM750x 750W 80 Plus Gold",
+      "descripcion": "Fuente de alimentación modular de alta eficiencia y bajo ruido.",
+      "precio": 140000,
+      "imagen": "https://images.unsplash.com/photo-1621944190310-e3cca1564bd7?w=500&auto=format&fit=crop",
+      "categoria": "psus",
+      "stock": 15,
+      "especificaciones": {
+        "potencia": "750W",
+        "certificacion": "80 Plus Gold",
+        "modular": "Completamente modular"
+      }
+    },
+    {
+      "id": "14",
+      "titulo": "Seasonic Focus GX-850 850W",
+      "descripcion": "Fuente de alimentación con excelente regulación de voltaje y componentes japoneses.",
+      "precio": 170000,
+      "imagen": "https://images.unsplash.com/photo-1621944190310-e3cca1564bd7?w=500&auto=format&fit=crop",
+      "categoria": "psus",
+      "stock": 8,
+      "especificaciones": {
+        "potencia": "850W",
+        "certificacion": "80 Plus Gold",
+        "modular": "Completamente modular"
+      }
+    },
+    {
+      "id": "15",
+      "titulo": "EVGA 600 GD 600W 80 Plus Gold",
+      "descripcion": "Fuente de alimentación económica pero con certificación Gold.",
+      "precio": 90000,
+      "imagen": "https://images.unsplash.com/photo-1621944190310-e3cca1564bd7?w=500&auto=format&fit=crop",
+      "categoria": "psus",
+      "stock": 20,
+      "especificaciones": {
+        "potencia": "600W",
+        "certificacion": "80 Plus Gold",
+        "modular": "No modular"
+      }
+    },
+    {
+      "id": "16",
+      "titulo": "NZXT H510 Flow",
+      "descripcion": "Gabinete de torre media con excelente flujo de aire y diseño minimalista.",
+      "precio": 110000,
+      "imagen": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500&auto=format&fit=crop",
+      "categoria": "cases",
+      "stock": 13,
+      "especificaciones": {
+        "tipo": "Mid Tower",
+        "ventanas": "Panel lateral templado",
+        "bahías": "2 x 2.5\", 2 x 3.5\""
+      }
+    },
+    {
+      "id": "17",
+      "titulo": "Lian Li PC-O11 Dynamic",
+      "descripcion": "Gabinete premium con diseño dual chamber y amplio espacio para watercooling.",
+      "precio": 220000,
+      "imagen": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500&auto=format&fit=crop",
+      "categoria": "cases",
+      "stock": 6,
+      "especificaciones": {
+        "tipo": "Full Tower",
+        "ventanas": "Panel lateral templado",
+        "bahías": "6 x 2.5\", 2 x 3.5\""
+      }
+    },
+    {
+      "id": "18",
+      "titulo": "Fractal Design Meshify C",
+      "descripcion": "Gabinete compacto con frente mesh para óptima ventilación.",
+      "precio": 130000,
+      "imagen": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500&auto=format&fit=crop",
+      "categoria": "cases",
+      "stock": 11,
+      "especificaciones": {
+        "tipo": "Mid Tower",
+        "ventanas": "Panel lateral templado",
+        "bahías": "2 x 2.5\", 2 x 3.5\""
+      }
+    },
+    {
+      "id": "19",
+      "titulo": "Samsung 970 EVO Plus 1TB NVMe",
+      "descripcion": "SSD NVMe de alto rendimiento para gamers y profesionales.",
+      "precio": 120000,
+      "imagen": "https://images.unsplash.com/photo-1643452035184-3e2a7bb6eb15?w=500&auto=format&fit=crop",
+      "categoria": "storages",
+      "stock": 18,
+      "especificaciones": {
+        "capacidad": "1TB",
+        "tipo": "NVMe PCIe 3.0",
+        "velocidad": "3500 MB/s lectura, 3300 MB/s escritura"
+      }
+    },
+    {
+      "id": "20",
+      "titulo": "WD Blue SN570 1TB NVMe",
+      "descripcion": "SSD NVMe económico pero con buen rendimiento para uso general.",
+      "precio": 85000,
+      "imagen": "https://images.unsplash.com/photo-1643452035184-3e2a7bb6eb15?w=500&auto=format&fit=crop",
+      "categoria": "storages",
+      "stock": 22,
+      "especificaciones": {
+        "capacidad": "1TB",
+        "tipo": "NVMe PCIe 3.0",
+        "velocidad": "3500 MB/s lectura, 3000 MB/s escritura"
+      }
+    },
+    {
+      "id": "21",
+      "titulo": "Seagate BarraCuda 2TB HDD",
+      "descripcion": "Disco duro convencional para almacenamiento masivo económico.",
+      "precio": 50000,
+      "imagen": "https://images.unsplash.com/photo-1643452035184-3e2a7bb6eb15?w=500&auto=format&fit=crop",
+      "categoria": "storages",
+      "stock": 30,
+      "especificaciones": {
+        "capacidad": "2TB",
+        "tipo": "HDD 3.5\"",
+        "velocidad": "7200 RPM"
+      }
+    }
+  ]
+}
